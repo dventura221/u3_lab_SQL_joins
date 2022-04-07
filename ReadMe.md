@@ -3,9 +3,11 @@
 ![Real Estate](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.jimcdn.com%2Fapp%2Fcms%2Fimage%2Ftransf%2Fdimension%3D540x10000%3Aformat%3Dgif%2Fpath%2Fs57c53b47364b96c3%2Fimage%2Fi084a40ff15d12228%2Fversion%2F1541431625%2Fimage.gif&f=1&nofb=1)
 
 ## Overview
+
 In this lab, we'll be getting in some practice using SQL Joins by working with a real estate database.
 
 ## Getting Started
+
 - `fork` and `clone`
 - `cd` into the directory
 
